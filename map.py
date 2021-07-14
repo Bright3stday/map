@@ -1,7 +1,9 @@
 """webbrowser, system and pyperclip module"""
+import sys
 import webbrowser
-import sys 
+
 import pyperclip
+
 if len(sys.argv)> 1:
     #address from command line
     ADDRESS = ''.join(sys.argv[1:])
