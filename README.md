@@ -1,6 +1,8 @@
 # map
 uses python to search the address on google maps
 
+## Note: On every push, any changes to the python file will be linted using flake8.
+
 ## Step 1
 
 Copy repo by using command `git clone https://github.com/Bright3stday/map.git`
