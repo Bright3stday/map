@@ -1,8 +1,4 @@
-#! python3
-# map.py -Launch a google map in the browser using address from the clipboard or command line
-"""webbrowser module"""
-"""system module"""
-"""pyperclip module"""
+"""webbrowser, system and pyperclip module"""
 import webbrowser
 import sys 
 import pyperclip
