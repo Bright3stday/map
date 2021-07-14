@@ -7,7 +7,8 @@ Copy repo by using command `git clone https://github.com/Bright3stday/map.git`
 
 ## Step 2
 
-Program uses the webbrowser, system, and pyperclip modules
+Program uses the webbrowser, system, and pyperclip modules.
+To install pyperclip. Go to the directory `<USER>\AppData\Local\Programs\Python\Python39\Scripts` , open a terminal, and run `pip install pyperclip` in the command line.
 
 ## Step 3
 
