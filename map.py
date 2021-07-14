@@ -1,3 +1,6 @@
+#! python3
+# map.py - Launch Google map in browser using an address from command line or clipboard.
+
 """webbrowser, system and pyperclip module"""
 import sys
 import webbrowser
